@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yasakura/my-quantified-self-app/static/css/main.f38443f5.css",
+    "main.js": "/yasakura/my-quantified-self-app/static/js/main.894fe8bd.js",
+    "static/js/787.6466104d.chunk.js": "/yasakura/my-quantified-self-app/static/js/787.6466104d.chunk.js",
+    "index.html": "/yasakura/my-quantified-self-app/index.html",
+    "main.f38443f5.css.map": "/yasakura/my-quantified-self-app/static/css/main.f38443f5.css.map",
+    "main.894fe8bd.js.map": "/yasakura/my-quantified-self-app/static/js/main.894fe8bd.js.map",
+    "787.6466104d.chunk.js.map": "/yasakura/my-quantified-self-app/static/js/787.6466104d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38443f5.css",
+    "static/js/main.894fe8bd.js"
+  ]
+}
